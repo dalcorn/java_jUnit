@@ -1,0 +1,15 @@
+		
+			
+		
+		Product p1 = new Product ("zombie-b-gone", 3.99, DeptCode.ELECTRONICS);
+		Product p2 = new Product ("bunny slippers", 8.25, DeptCode.SHOE);
+		Product p3 = new Product ("horrible movie", 27.99, DeptCode.DVD);
+		Product p4 = new Product ("fast computer", 1358.99, DeptCode.COMPUTER);
+		Product p5 = new Product ("the zen of java", 33.99, DeptCode.BOOK);
+		productDB.addProduct(p1);
+		productDB.addProduct(p2);
+		productDB.addProduct(p3);
+		productDB.addProduct(p4);
+		productDB.addProduct(p5);
+		productDB.addProduct(ipod);
+		
